@@ -77,15 +77,14 @@ ollama launch claude
 | **glm-5:cloud** | **PAGO (Nube)** | `glm-4.7-flash` | Razonamiento y generación de código experto. |
 | **minimax-m2.7:cloud** | **PAGO (Nube)** | `llama3.2` | Programación rápida, eficiente y productividad real. |
 
-> - **Modo LOCAL:** Recomendado para programar, redactar y consultas diarias rápidas. (Privado y Gratis).
-> - **Modo NUBE:** Recomendado para tareas pesadas como auditorías completas. (Máxima velocidad).
+> - **Modo LOCAL:** Recomendado para programar, redactar y consultas diarias rápidas (privado y gratis).
+> - **Modo NUBE:** Recomendado para tareas pesadas como auditorías completas (máxima velocidad).
 
 
 ---
 
 ## 💰 Punto clave:
-*   **Privacidad:** Los modelos Locales (sin etiqueta :cloud) mantienen tus datos en tu disco duro.
-*   **Agentes:** Puedes usar agentes de [Marketing](https://github.com/zubair-trabzada/ai-marketing-claude) o [SEO](https://github.com/AgriciDaniel/claude-seo) en local, pero debes tener un PC muy potente.
+*   **Agentes:** Puedes usar agentes de [Marketing](https://github.com/zubair-trabzada/ai-marketing-claude) o [SEO](https://github.com/AgriciDaniel/claude-seo) en modo local, pero debes tener un PC potente/muy potente, sino mejor elegir el modo nube.
 
 
 ---
@@ -104,7 +103,7 @@ Esta versión está mantenida por:
 
 ## Licencia
 
-Este proyecto mantiene la misma licencia que el repositorio original: **MIT**.  
-Consulta el archivo `LICENSE` para ver el texto completo de la licencia.
+Este proyecto está licenciado bajo la licencia MIT.  
+Consulta el archivo `LICENSE` para ver el texto completo.
 
 Si este repositorio te resulta útil, puedes dejar una ⭐.
