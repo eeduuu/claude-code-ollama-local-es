@@ -29,7 +29,7 @@ irm https://claude.ai/install.ps1 | iex
 *(Si la terminal te pregunta algo durante la instalación, simplemente acepta o dale a Enter para usar la configuración por defecto).*
 
 ### 4. Iniciar y configurar
-Una vez instalado, usaremos nuestro comando especial para asegurarnos de que Claude use tus modelos locales:
+Una vez instalado, usa este comando para iniciar:
 ```powershell
 ollama launch claude
 ```
@@ -60,7 +60,7 @@ npm install -g @anthropic-ai/claude-code
 ```
 
 ### 4. Iniciar y configurar
-Usa nuestro comando especial para forzar el uso de Ollama:
+Usa este comando para iniciar:
 ```bash
 ollama launch claude
 ```
