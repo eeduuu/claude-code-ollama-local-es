@@ -34,7 +34,7 @@ Una vez instalado, usa este comando para iniciar:
 ollama launch claude
 ```
 **Al arrancar por primera vez:**
-**Activación:** Sigue el enlace que aparecerá en pantalla para autorizar tu cuenta de Ollama y Claude (solo se hace una vez).
+- **Activación:** Sigue el enlace que aparecerá en pantalla para autorizar tu cuenta de Ollama y Claude (solo se hace una vez).
 
 ---
 
@@ -62,7 +62,7 @@ Usa este comando para iniciar:
 ollama launch claude
 ```
 **Al arrancar por primera vez:**
-**Activación:** Sigue el enlace que aparecerá en pantalla para autorizar tu cuenta de Ollama y Claude (solo se hace una vez).
+- **Activación:** Sigue el enlace que aparecerá en pantalla para autorizar tu cuenta de Ollama y Claude (solo se hace una vez).
 
 ---
 
