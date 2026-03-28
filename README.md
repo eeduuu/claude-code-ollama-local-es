@@ -34,10 +34,7 @@ Una vez instalado, usa este comando para iniciar:
 ollama launch claude
 ```
 **Al arrancar por primera vez:**
-1.  **Selección de modelo:** Verás una lista. Usa las flechas del teclado (**↑ ↓**) para elegir tu modelo (ej: `qwen2.5:7b`) y pulsa **Enter**.
-2.  **Activación:** Si es tu primera vez, el programa te dará un enlace para que inicies sesión en tu cuenta de Claude (solo se hace una vez para activar el programa).
-3.  **Listo:** ¡Ya puedes empezar a escribir!
-
+- **Activación:** Sigue el enlace que aparecerá en pantalla para autorizar tu cuenta de Ollama y Claude (solo se hace una vez).
 
 ---
 
@@ -65,10 +62,7 @@ Usa este comando para iniciar:
 ollama launch claude
 ```
 **Al arrancar por primera vez:**
-1.  **Activación:** Sigue el enlace que aparecerá en pantalla para autorizar tu cuenta de Claude (solo se hace una vez).
-2.  **Selección de modelo:** Selecciona tu modelo local (ej: `qwen2.5:7b`) usando las flechas (**↑ ↓**) y pulsa **Enter**.
-3.  **Listo:** Ya tienes todo configurado.
-
+- **Activación:** Sigue el enlace que aparecerá en pantalla para autorizar tu cuenta de Ollama y Claude (solo se hace una vez).
 
 ---
 
