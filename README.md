@@ -34,7 +34,7 @@ Una vez instalado, usa este comando para iniciar:
 ollama launch claude
 ```
 **Al arrancar por primera vez:**
-- **Activación:** Sigue el enlace que aparecerá en pantalla para autorizar tu cuenta de Ollama y Claude (solo se hace una vez).
+**Activación:** Sigue el enlace que aparecerá en pantalla para autorizar tu cuenta de Ollama y Claude (solo se hace una vez).
 
 ---
 
@@ -62,13 +62,13 @@ Usa este comando para iniciar:
 ollama launch claude
 ```
 **Al arrancar por primera vez:**
-- **Activación:** Sigue el enlace que aparecerá en pantalla para autorizar tu cuenta de Ollama y Claude (solo se hace una vez).
+**Activación:** Sigue el enlace que aparecerá en pantalla para autorizar tu cuenta de Ollama y Claude (solo se hace una vez).
 
 ---
 
-## ⚖️ Tabla Maestra: Equivalencias y capacidades (28 de Marzo de 2026)
+## ⚖️ TABLA DE MODELOS: Equivalencias y capacidades (28 de Marzo de 2026)
 
-| Modelo en Terminal | Tipo de Uso | Equivalente Gratis (Local) | Descripción Técnica (Capacidad) |
+| Modelo en Terminal | Tipo de Uso | Equivalente Gratis (Local) | Descripción Técnica (1r modelo) |
 | :--- | :--- | :--- | :--- |
 | **glm-4.7-flash** | **GRATIS (Local)** | `glm4` (5B) | Razonamiento y generación de código local (~25GB). |
 | **qwen3.5** | **GRATIS (Local)** | `qwen2.5:7b` | Razonamiento, programación y visión local (~11GB). |
@@ -85,7 +85,7 @@ ollama launch claude
 
 ## 💰 Punto clave:
 *   **Privacidad:** Los modelos Locales (sin etiqueta :cloud) mantienen tus datos en tu disco duro.
-*   **Agentes:** Puedes usar agentes de [Marketing](https://github.com/zubair-trabzada/ai-marketing-claude) o [SEO](https://github.com/AgriciDaniel/claude-seo) en local pero debes tener un PC muy potente.
+*   **Agentes:** Puedes usar agentes de [Marketing](https://github.com/zubair-trabzada/ai-marketing-claude) o [SEO](https://github.com/AgriciDaniel/claude-seo) en local, pero debes tener un PC muy potente.
 
 
 ---
