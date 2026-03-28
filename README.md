@@ -15,7 +15,8 @@ Guía rápida para configurar Claude Code con modelos locales. Olvídate de los 
 ### 1. Instalar Ollama
 Descarga e instala desde [ollama.com](https://ollama.com).
 
-En el PowerShell:
+
+### En el PowerShell:
 ### 2. Descargar un cerebro local (opcional pero recomendado)
 *Este paso te permite trabajar sin gastar tokens. Elige según tu memoria RAM libre:*
 - `ollama pull qwen2.5:7b` (Ideal para equipos de 16GB de RAM).
@@ -49,7 +50,8 @@ ollama launch claude
 curl -fsSL https://ollama.com/install.sh | sh
 ```
 
-En el PowerShell:
+
+### En el PowerShell:
 ### 2. Descargar un cerebro local
 ```bash
 ollama pull qwen2.5:7b
