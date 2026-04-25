@@ -84,7 +84,7 @@ ollama launch claude
 ---
 
 ## 💰 Punto clave:
-*   **Agentes:** Puedes usar agentes de [Marketing](https://github.com/zubair-trabzada/ai-marketing-claude) o [SEO](https://github.com/AgriciDaniel/claude-seo) en modo local, pero debes tener un PC potente/muy potente, sino mejor elegir el modo nube.
+*   **Agentes:** Puedes usar agentes en modo local, pero debes tener un PC potente/muy potente, sino mejor elegir el modo nube.
 
 
 ---
